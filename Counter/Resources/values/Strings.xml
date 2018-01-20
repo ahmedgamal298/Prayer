@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">rosary</string>
+  <string name="share">shate app </string>
+  <string name ="add" >Praise</string>
+  <string name="clear_all">Delete the total praise</string>
+  <string name="about">about app</string>
+  <string name="rate">rate app </string>
+  <string name="reset">Reset </string>
+  <string name="result">Current praise</string>
+  <string name="txtall">Total praise </string>
+</resources>

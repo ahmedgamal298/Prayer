@@ -1,0 +1,15 @@
+c:\users\gemy\source\repos\Counter\Counter\bin\Debug\Counter.dll
+c:\users\gemy\source\repos\Counter\Counter\bin\Debug\Counter.pdb
+c:\users\gemy\source\repos\Counter\Counter\bin\Debug\Counter.Counter.apk
+c:\users\gemy\source\repos\Counter\Counter\bin\Debug\Counter.Counter-Signed.apk
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\Counter.dll
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\Counter.pdb
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\android\bin\Counter.Counter.apk
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\res\layout\main.xml
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\res\values\strings.xml
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\R.cs.flag
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\uploadflags.txt
+c:\users\gemy\source\repos\Counter\Counter\bin\Debug\Counter.dll.mdb
+c:\users\gemy\source\repos\Counter\Counter\obj\Debug\android\assets\Counter.dll.mdb
